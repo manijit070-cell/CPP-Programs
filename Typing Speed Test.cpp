@@ -12,7 +12,7 @@ int main() {
     char choice;
 
     cout << "******** WELCOME TO THE TYPING SPEED CHALLENGE! ********\n";
-    cout << "**** READY TO PLAY? (Y/N): ";
+    cout << "READY TO PLAY? (Y/N): ";
     cin >> choice;
     cin.ignore();
 
